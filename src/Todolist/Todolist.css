@@ -1,0 +1,18 @@
+.task {
+  display: flex;
+  width: 170px;
+  justify-content: space-between;
+  margin: 10px 0px;
+  padding: 10px;
+  background: rgba(255, 255, 255, 0.1);
+}
+
+.task button {
+  border: none;
+  font-size: 1em;
+  margin: 0.4em;
+  background: none;
+  -webkit-appearance: none;
+  cursor: pointer;
+  color: #fff;
+}
